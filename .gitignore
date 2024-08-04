@@ -1,0 +1,58 @@
+# Maven 빌드 출력 디렉토리
+target/
+
+# Eclipse 프로젝트 파일
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA 프로젝트 파일
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# NetBeans 프로젝트 파일
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code 설정 파일
+.vscode/
+
+# MacOS 파일
+.DS_Store
+
+# Windows 파일
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux 파일
+*~
+
+# 로그 파일
+*.log
+
+# 임시 파일
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# 패키징 파일
+*.jar
+*.war
+*.ear
+
+# 환경 설정 파일
+*.env
+
+# 기타
+logs/
+*.swp
+
